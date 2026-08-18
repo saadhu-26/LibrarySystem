@@ -1,11 +1,11 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225240126
+# Name: SAADHANA A
+# Date: 18/08/2026
 
 
 # AIM:
-To develop the Library Management System using Star UML
+To develop the Library Management System using Star UML.
 
 # Problem Statement:
 1.Library Management System is required to replace the manual tracking of books, member records, and lending activities, which is prone to errors and inefficiency.
@@ -38,12 +38,6 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
-
-
 # CLASS DIAGRAM
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
@@ -58,7 +52,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
+<img width="826" height="543" alt="Screenshot 2026-08-18 194149" src="https://github.com/user-attachments/assets/87fcc3cc-84d1-4048-a005-d2375e5dbfd7" />
 
 # COMMUNICTION DIAGRAM:
 
@@ -66,8 +60,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
+<img width="762" height="491" alt="Screenshot 2026-08-18 142441" src="https://github.com/user-attachments/assets/6bf6123b-0e5d-49d9-b1ec-282bdc0dbdf6" />
 
 # PACKAGE DIAGRAM:
 
@@ -76,11 +69,6 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
-
-
-
-
-
 
 
 
@@ -96,9 +84,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
-
+<img width="719" height="618" alt="Screenshot 2026-08-18 204133" src="https://github.com/user-attachments/assets/19169b45-33da-4abb-92c3-68b5d362fa67" />
 
 # SEQUENCE DIAGRAM
 
@@ -117,10 +103,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
-
-
-
+<img width="752" height="596" alt="Screenshot 2026-08-18 133505" src="https://github.com/user-attachments/assets/cb7301f0-3a20-4412-af94-4c15ffda2d33" />
 
 # RESULT
 
