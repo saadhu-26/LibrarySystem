@@ -5,9 +5,11 @@
 
 
 # AIM:
+
 To develop the Library Management System using Star UML.
 
 # Problem Statement:
+
 1.Library Management System is required to replace the manual tracking of books, member records, and lending activities, which is prone to errors and inefficiency.
 
 2.Manual processes cause difficulties in managing book availability, overdue returns, and accurate record-keeping of issued and returned books.
@@ -19,7 +21,6 @@ To develop the Library Management System using Star UML.
 5.The system should support quick check-in/check-out, fine calculation, and generate reports on inventory, borrowing trends, and user activity.
 
 6.It must provide secure role-based access for users and librarians, ensuring data integrity and protecting sensitive user information.
-UML DIAGRAMS
 
 # USE CASE DIAGRAM
 
@@ -28,6 +29,7 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -38,11 +40,17 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+
+<img width="775" height="608" alt="Screenshot 2026-08-18 201329" src="https://github.com/user-attachments/assets/67acdb91-9a9a-426f-8d20-97284ee646a2" />
+
+
 # CLASS DIAGRAM
 
-The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
+The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. 
 
-among software engineers to document software architecture, class diagrams are a type of structure diagram because they describe what must be present in the system being modeled. No matter your level of familiarity with UML or class diagrams, our UML software is designed to be simple and easy to use.
+Popular among software engineers to document software architecture, class diagrams are a type of structure diagram because they describe what must be present in the system being modeled. 
+
+No matter your level of familiarity with UML or class diagrams, our UML software is designed to be simple and easy to use.
 
 Class diagrams offer a number of bend is for any organization. Use UML class diagrams to:
 
@@ -52,7 +60,9 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+
 <img width="826" height="543" alt="Screenshot 2026-08-18 194149" src="https://github.com/user-attachments/assets/87fcc3cc-84d1-4048-a005-d2375e5dbfd7" />
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -60,7 +70,9 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
 <img width="762" height="491" alt="Screenshot 2026-08-18 142441" src="https://github.com/user-attachments/assets/6bf6123b-0e5d-49d9-b1ec-282bdc0dbdf6" />
+
 
 # PACKAGE DIAGRAM:
 
@@ -70,6 +82,8 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+
+<img width="743" height="433" alt="Screenshot 2026-08-18 220508" src="https://github.com/user-attachments/assets/e257d670-16d8-41c2-97d3-7e0e92d7d1d3" />
 
 
 # ACTIVITY DIAGRAM:
@@ -84,7 +98,9 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+
 <img width="719" height="618" alt="Screenshot 2026-08-18 204133" src="https://github.com/user-attachments/assets/19169b45-33da-4abb-92c3-68b5d362fa67" />
+
 
 # SEQUENCE DIAGRAM
 
